@@ -1,12 +1,11 @@
-# LittleLogger
+
 This discord bot made in Discord JS will copy any messages and log them into sqlite db.
 
 Format
 each table will represent a text channel. All logs are dated, and usernames are inputted. Now Handles DMs!
 
 Future updates: return x amount of messages from user.
-
-# Installing
+ Installing
 
 1. Open config.json and update with your token code  
 2. run on node:   
